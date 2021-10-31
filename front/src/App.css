@@ -1,0 +1,49 @@
+.text_label {
+  text-align: right;
+  font-size: 0.75rem;
+  padding-bottom: 0.25rem;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.container_input {
+  margin-top: 0.75rem;
+}
+.input {
+  width: 100%;
+  border: 1px solid #596275;
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+}
+.input:focus {
+  border: 1px solid #596275;
+  outline: none;
+}
+.container__inputLogin {
+  border: 1px solid #d1d8e0;
+  padding: 3rem;
+  border-radius: 0.25rem;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.container__inputLogin > div {
+  margin-top: 1rem;
+}
+.container__inputLogin > button {
+  margin-top: 2rem;
+}
+.h4 {
+  margin-bottom: 2rem;
+  color: #0096f5;
+  font-weight: bold;
+}
+
+.button {
+  background-color: #0096f5;
+  color: white;
+  border-radius: 0.25rem;
+  border: 1px solid #0096f5;
+  padding: 0.25rem 0.95rem;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
